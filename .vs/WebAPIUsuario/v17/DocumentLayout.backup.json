@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|c:\\users\\grios\\desktop\\cursoapi\\webapiusuario\\webapiusuario\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|solutionrelative:webapiusuario\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|c:\\users\\grios\\desktop\\cursoapi\\webapiusuario\\webapiusuario\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|solutionrelative:webapiusuario\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|c:\\users\\grios\\desktop\\cursoapi\\webapiusuario\\webapiusuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD3AB94-E893-44D3-94D9-C3C459932B75}|WebAPIUsuario\\WebAPIUsuario.csproj|solutionrelative:webapiusuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Services\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "WebAPIUsuario\\Services\\OpenAIService.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Services\\OpenAIService.cs",
+              "RelativeToolTip": "WebAPIUsuario\\Services\\OpenAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:31:07.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAController.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Controllers\\IAController.cs",
+              "RelativeDocumentMoniker": "WebAPIUsuario\\Controllers\\IAController.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Controllers\\IAController.cs",
+              "RelativeToolTip": "WebAPIUsuario\\Controllers\\IAController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:13:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebAPIUsuario\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\WebAPIUsuario\\WebAPIUsuario\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebAPIUsuario\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:58:02.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
